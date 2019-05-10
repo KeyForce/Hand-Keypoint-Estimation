@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="06037bdd-020c-4b4b-b26c-d46cf7b12215" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/remote-mappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hand-Keypoint-Detection/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hand-Keypoint-Detection/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hand-Keypoint-Detection/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hand-Keypoint-Detection/data/create_annoset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hand-Keypoint-Detection/data/create_data.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hand-Keypoint-Detection/data/create_txt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hand-Keypoint-Detection/data/egohands/_screenshot_17.04.2018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hand-Keypoint-Detection/data/egohands/egohands_data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hand-Keypoint-Detection/data/egohands/generate_egohands.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hand-Keypoint-Detection/data/egohands/getInfo.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hand-Keypoint-Detection/data/gth/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hand-Keypoint-Detection/data/labelmap_voc.prototxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hand-Keypoint-Detection/data/stanfordhands/generate_stanfordhands.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hand-Keypoint-Detection/model/deploy.prototxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hand-Keypoint-Detection/model/generate_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hand-Keypoint-Detection/model/snapshot/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hand-Keypoint-Detection/model/solver.prototxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hand-Keypoint-Detection/model/train.prototxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hand-Keypoint-Detection/old_README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hand-Keypoint-Detection/pic/demo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hand-Keypoint-Detection/pic/example_image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hand-Keypoint-Detection/pic/width_and_height.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hand-Keypoint-Detection/ssd_camera.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hand-Keypoint-Detection/ssd_detection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hand-Keypoint-Detection/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hand-Keypoint-Detection/utils/mAP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hand-Keypoint-Detection/utils/output.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hand-Keypoint-Detection/utils/plot_loss.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hand-Keypoint-Detection/utils/score.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hand-Keypoint-Detection/utils/ssd_net.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hand-Keypoint-Detection/utils/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openpose-keras/StolenOpenPoseHandTracking.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/openpose-keras/StolenOpenPoseHandTracking.ipynb" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1765544195">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gitignore" value="1" />
+          <entry key="ipynb" value="2" />
+          <entry key="jpg" value="4" />
+          <entry key="py" value="5" />
+          <entry key="sh" value="1" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IPNB" value="2" />
+          <entry key="Image" value="4" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Python" value="5" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/openpose-keras/StolenOpenPoseHandTracking.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hand-Keypoint-Detection/ssd_detection.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hand-Keypoint-Detection/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hand-Keypoint-Detection/data/create_txt.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="8" lean-forward="true" selection-end-line="31" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hand-Keypoint-Detection/ssd_camera.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-end-line="33" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/handPose-Notebook.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hand-Keypoint-Detection/data/create_data.sh">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hands from Synthetic Data (6546 + 3243 + 2348 + 2124 = 14261 annotations)/hand_labels_synth/output_viz_synth/00010000.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hands from Synthetic Data (6546 + 3243 + 2348 + 2124 = 14261 annotations)/hand_labels_synth/readme.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="455">
+              <caret line="63" column="44" selection-start-line="63" selection-start-column="44" selection-end-line="63" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hand-Keypoint-Detection/model/generate_model.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1928" />
+    <option name="y" value="-8" />
+    <option name="width" value="1937" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Hand-Keypoint-Estimation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hand-Keypoint-Estimation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hand-Keypoint-Estimation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hand-Keypoint-Estimation" type="462c0819:PsiDirectoryNode" />
+              <item name="Hand-Keypoint-Detection" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Face_Landmark_Caffe" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06037bdd-020c-4b4b-b26c-d46cf7b12215" name="Default Changelist" comment="" />
+      <created>1556515170120</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556515170120</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1926" y="-6" width="1549" height="837" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31413263" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.49946696" weight="0.32962137" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.5016745" side_tool="true" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="File Transfer" sideWeight="0.49832553" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946696" weight="0.32962137" />
+      <window_info anchor="right" id="Remote Host" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../MobilePose-pytorch/run_webcam.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-600" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hands from Synthetic Data (6546 + 3243 + 2348 + 2124 = 14261 annotations)/hand_labels_synth/output_viz_synth/00000000.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hands from Synthetic Data (6546 + 3243 + 2348 + 2124 = 14261 annotations)/hand_labels_synth/output_viz_synth/0001.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hands from Synthetic Data (6546 + 3243 + 2348 + 2124 = 14261 annotations)/hand_labels_synth/output_viz_synth/0002.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hands from Synthetic Data (6546 + 3243 + 2348 + 2124 = 14261 annotations)/hand_labels_synth/output_viz_synth/00010000.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hands from Synthetic Data (6546 + 3243 + 2348 + 2124 = 14261 annotations)/hand_labels_synth/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="63" column="44" selection-start-line="63" selection-start-column="44" selection-end-line="63" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hand-Keypoint-Detection/model/generate_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hand-Keypoint-Detection/ssd_detection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openpose-keras/StolenOpenPoseHandTracking.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hand-Keypoint-Detection/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hand-Keypoint-Detection/data/create_data.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hand-Keypoint-Detection/data/create_txt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="8" lean-forward="true" selection-end-line="31" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hand-Keypoint-Detection/ssd_camera.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-end-line="33" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/handPose-Notebook.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
