@@ -53,7 +53,8 @@ Loss function : MSELoss
 Epoch : 200
 LR : 0.01->0.0001
 Train Loss end : 0.010500	
-Valid Loss end : 0.012454![下载 (image/下载 (5).png)](C:/Users/julym/Downloads/下载 (5).png)
+Valid Loss end : 0.012454
 ```
 
 ![Loss](image/Loss.png)
+
