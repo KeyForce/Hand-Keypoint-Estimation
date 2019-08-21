@@ -58,3 +58,6 @@ Valid Loss end : 0.012454
 
 ![Loss](image/Loss.png)
 
+CPU上0.0234s一张图片
+
+GPU-2070Ti上0.00727s一张图片
