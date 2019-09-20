@@ -2,6 +2,8 @@
 
 ## Introduction
 
+![unnamed](image/unnamed.png)
+
 手部21点关键点识别
 
 ![GT](image/com.png)
