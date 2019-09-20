@@ -92,6 +92,9 @@ def fast_hist(a, b, n):
 
 
 def main():
+    # 加载数据
+    
+    
     # 使用drop_last让Batch能够整除
     train_loader = torch.utils.data.DataLoader(train_data, batch_size=16, drop_last=True)
     test_loader = torch.utils.data.DataLoader(test_data, batch_size=16, drop_last=True)
