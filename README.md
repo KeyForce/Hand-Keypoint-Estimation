@@ -2,11 +2,11 @@
 
 ## Introduction
 
-![unnamed](image/unnamed.png)
+<div align=center><img src="image/unnamed.png" alt="unnamed"/></div>
 
 手部21点关键点识别
 
-![GT](image/com.png)
+<div align=center><img src="image/com.png" alt="unnamed"/></div>
 
 ## TODO
 
@@ -58,8 +58,9 @@ Train Loss end : 0.010500
 Valid Loss end : 0.012454
 ```
 
-![Loss](image/Loss.png)
+<div align=center><img src="image/Loss.png" alt="unnamed"/></div>
 
 CPU上0.0234s一张图片
 
 GPU-2070Ti上0.00727s一张图片
+
