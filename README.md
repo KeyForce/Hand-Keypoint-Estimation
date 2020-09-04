@@ -41,8 +41,9 @@ Finetune = nn.Sequential(
     nn.ReLU(),
     nn.Dropout(0.5),
     nn.Linear(247808, 256),
-    nn.ReLU(),
+    #ReLU不能放BN前会导致BN方差计算错误
     nn.BatchNorm1d(256),
+    nn.ReLU(),
     nn.Dropout(0.5),
     nn.Linear(256, 42),
     Reshape(-1,21,2),
